@@ -20,6 +20,9 @@ Description of Files
 4. Report.pdf : Contains project report
 5. adaboost_model,nnet_model,nearest_model,best_model : It contains the model files for all algorithms
 
+To view the original image, we can use the following URL:
+http://www.flickr.com/photo_zoom.gne?id=numeric photo id
+
 To Run Program:
 
 For Training
